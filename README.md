@@ -1,4 +1,6 @@
-## Hi there 👋
+## Thank you for visiting my GitHub page. If you are here to learn more about what I'm working on, I encourage you to visit my website at dillanvictory.com.
+
+## 私のGitHubページをご覧いただきありがとうございます。現在取り組んでいるプロジェクトについて詳しく知りたい方は、ぜひ私のウェブサイト（dillanvictory.com）をご覧ください。
 
 <!--
 **raydillanv/raydillanv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
